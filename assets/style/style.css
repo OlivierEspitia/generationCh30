@@ -1,0 +1,10 @@
+/* Este es un selector de etiqueta  */
+body{
+    background-image: url("../img/generat.jpeg");
+font-family: sans-serif;
+}
+
+h1 {
+color:brown;
+text-align: center;
+}
